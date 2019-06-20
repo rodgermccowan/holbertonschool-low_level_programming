@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/* puts to print without using printf */
+/**
+ * main - Entry point
+ *
+ * Return: 0
+ */
 
 int main(void)
 {
